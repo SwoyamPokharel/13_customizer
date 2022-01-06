@@ -1,0 +1,433 @@
+Nov 21 16:44 : exception: Failed to open '/home/nathan/.config/mpd/state': No such file or directory
+Nov 21 16:44 : update: added /Basic Implosion.mp4
+Nov 21 16:45 : exception: Failed to open '/home/nathan/.config/mpd/state': No such file or directory
+Nov 21 16:46 : exception: Failed to open '/home/nathan/.config/mpd/state': No such file or directory
+Nov 21 16:46 : exception: Failed to commit /home/nathan/.config/mpd/state: File exists
+Nov 21 17:00 : player: played "Basic Implosion.mp4"
+Nov 21 17:02 : player: played "Basic Implosion.mp4"
+Nov 21 17:04 : player: played "Basic Implosion.mp4"
+Nov 21 17:05 : player: played "Basic Implosion.mp4"
+Nov 21 17:05 : player: played "Basic Implosion.mp4"
+Nov 21 17:05 : player: played "Basic Implosion.mp4"
+Nov 21 17:10 : player: played "Basic Implosion.mp4"
+Nov 21 17:11 : update: added /Eminem - Zeus (Lyrics) FT. White Gold.mp4
+Nov 21 17:12 : player: played "Basic Implosion.mp4"
+Nov 21 17:13 : player: played "Basic Implosion.mp4"
+Nov 21 17:13 : player: played "Basic Implosion.mp4"
+Nov 21 17:14 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:15 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:15 : player: played "Basic Implosion.mp4"
+Nov 21 17:16 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:17 : exception: Failed to decode /home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4; Failed to open '/home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4': No such file or directory
+Nov 21 17:17 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:17 : exception: Failed to decode /home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4; Failed to open '/home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4': No such file or directory
+Nov 21 17:17 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:17 : exception: Failed to decode /home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4; Failed to open '/home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4': No such file or directory
+Nov 21 17:17 : exception: Failed to decode /home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4; Failed to open '/home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4': No such file or directory
+Nov 21 17:17 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:17 : exception: Failed to decode /home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4; Failed to open '/home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4': No such file or directory
+Nov 21 17:17 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:17 : exception: Failed to decode /home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4; Failed to open '/home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4': No such file or directory
+Nov 21 17:17 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:17 : exception: Failed to decode /home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4; Failed to open '/home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4': No such file or directory
+Nov 21 17:17 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:17 : exception: Failed to decode /home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4; Failed to open '/home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4': No such file or directory
+Nov 21 17:17 : exception: Failed to decode /home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4; Failed to open '/home/nathan/Music/Eminem - Zeus (Lyrics) FT. White Gold.mp4': No such file or directory
+Nov 21 17:17 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:19 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:19 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 17:29 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 19:06 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 19:09 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 19:09 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 19:12 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 19:14 : player: played "Basic Implosion.mp4"
+Nov 21 19:17 : player: played "Eminem - Zeus (Lyrics) FT. White Gold.mp4"
+Nov 21 19:18 : player: played "Basic Implosion.mp4"
+Nov 21 19:19 : player: played "Basic Implosion.mp4"
+Nov 21 19:19 : update: added /Charlie Puth Cheating on You Official Video.mp3
+Nov 21 19:19 : update: added /The Kid LAROI Justin Bieber Stay Official Video.mp3
+Nov 21 19:19 : update: added /Vin Jay Overdose Official Music Video.mp3
+Nov 21 19:19 : update: added /Joyner Lucas ft Logic ISIS ADHD.mp3
+Nov 21 19:19 : update: added /Bruno Mars 24K Magic Official Music Video.mp3
+Nov 21 19:19 : update: added /Fall Official Audio.mp3
+Dec 14 11:52 : exception: Failed to access /home/nathan/Music: No such file or directory
+Dec 14 11:52 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 14 12:38 : update: added /NF - TRUST (Audio) ft. Tech N9ne.mp3
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 14 12:38 : exception: Failed to open "mpd alsamixer-output" (alsa); Failed to open ALSA device "default": No such file or directory
+Dec 14 12:39 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 14 12:41 : exception: Failed to open audio output
+Dec 14 12:41 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 14 12:43 : exception: Failed to open audio output
+Dec 14 12:44 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 14 12:44 : exception: Failed to open "ALSA sound card" (alsa); Failed to open ALSA device "default": No such file or directory
+Dec 14 12:44 : exception: Failed to open "ALSA sound card" (alsa); Failed to open ALSA device "default": No such file or directory
+Dec 14 12:44 : player: problems opening audio device while playing "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 14 12:44 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 14 12:44 : exception: Failed to open "ALSA sound card" (alsa); Failed to open ALSA device "default": No such file or directory
+Dec 14 12:44 : exception: Failed to open "ALSA sound card" (alsa); Failed to open ALSA device "default": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 14 12:44 : exception: Failed to open "ALSA sound card" (alsa); Failed to open ALSA device "default": No such file or directory
+Dec 14 12:44 : exception: Failed to open "ALSA sound card" (alsa); Failed to open ALSA device "default": No such file or directory
+Dec 14 12:44 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 14 12:47 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 14 12:49 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 15 17:58 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 15 18:15 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 15 18:35 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 16 19:03 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 16 19:21 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 17 19:43 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 19 12:43 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 19 12:43 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 19 17:02 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 19 17:17 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 21 12:05 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 21 12:14 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 21 12:14 : update: added /Imagine Dragons - Whatever It Takes.mp4
+Dec 21 12:14 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 21 12:17 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 21 12:23 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 21 12:23 : exception: Not playing
+Dec 21 12:28 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 21 12:28 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 21 12:29 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 21 12:32 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 21 12:34 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 21 12:34 : exception: Not playing
+Dec 21 12:34 : exception: Not playing
+Dec 21 12:34 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 21 12:46 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 21 15:15 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 21 15:15 : exception: Not playing
+Dec 21 15:16 : exception: Not playing
+Dec 21 15:39 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 22 11:39 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 22 11:39 : exception: Not playing
+Dec 22 11:41 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 22 14:28 : player: played "NF - TRUST (Audio) ft. Tech N9ne.mp3"
+Dec 22 15:26 : player: played "Imagine Dragons - Whatever It Takes.mp4"
+Dec 31 01:46 : exception: Failed to access /home/nate/Music: No such file or directory
+Dec 31 01:46 : exception: inotify_add_watch() has failed: No such file or directory
+Dec 31 07:53 : update: added /Bruno Mars - That’s What I Like (Official Music Video).mp4
+Dec 31 08:36 : config: option 'options' on line 20 was not recognized
+Dec 31 08:36 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Dec 31 08:36 : exception: Not playing
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 31 08:37 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 31 08:37 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Dec 31 08:44 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Dec 31 15:36 : config: option 'options' on line 20 was not recognized
+Dec 31 15:36 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 31 15:36 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Dec 31 15:37 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 31 15:37 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 31 15:37 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Dec 31 18:45 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Dec 31 19:07 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 02 18:12 : config: option 'options' on line 20 was not recognized
+Jan 02 18:12 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 02 18:12 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 02 18:12 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:12 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:12 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 02 18:14 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:14 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:14 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 02 18:14 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 02 18:15 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:15 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:15 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 02 18:15 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 02 18:15 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:15 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:15 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 02 18:16 : output: Failed to play on "pulse audio" (pulse): disconnected
+Jan 02 18:18 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 02 18:18 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:18 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:19 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:21 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:21 : update: added /Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:21 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:25 : update: added /Imagine Dragons, JID - Enemy (Lyrics).mp4
+Jan 02 18:26 : update: removing Imagine Dragons, JID - Enemy (Lyrics).mp4
+Jan 02 18:26 : update: removing Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4
+Jan 02 18:26 : update: added /Imagine Dragons, JID - Enemy (Lyrics).mp4
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:27 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:27 : player: played "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:27 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:27 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+Jan 02 18:27 : player: played "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4"
+Jan 02 18:27 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:28 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:28 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+Jan 02 18:28 : player: played "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4"
+Jan 02 18:28 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+Jan 02 18:28 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+Jan 02 18:28 : player: played "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:28 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:28 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 02 18:28 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 02 18:28 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 02 18:28 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 02 18:28 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 02 18:28 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+Jan 02 18:29 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:29 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:29 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 02 18:29 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 02 18:29 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 02 18:29 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 02 18:29 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 02 18:29 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:29 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:29 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+Jan 02 18:29 : player: played "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4"
+Jan 02 18:29 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:29 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:30 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:30 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 02 18:30 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 02 18:30 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 02 18:30 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 02 18:30 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 02 18:30 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:30 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:30 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+Jan 02 18:30 : player: played "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4"
+Jan 02 18:30 : exception: Failed to decode /home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4; Failed to open '/home/nate/Music/Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4': No such file or directory
+Jan 02 18:30 : player: played "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:30 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:30 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:39 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:40 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 02 18:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 02 18:40 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 02 18:40 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 02 18:40 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:41 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:41 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:41 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 02 18:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 02 18:42 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 02 18:42 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 02 18:42 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 02 18:42 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:42 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:42 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:42 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:42 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+Jan 02 18:42 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:42 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:42 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 02 18:42 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+Jan 02 18:43 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:43 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:43 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 02 18:43 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 02 18:43 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 02 18:43 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 02 18:43 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 02 18:43 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 02 18:43 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:43 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:43 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+Jan 02 18:45 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:45 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:45 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 02 18:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 02 18:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 02 18:46 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 02 18:46 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 02 18:46 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 02 18:46 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+Jan 02 18:47 : exception: Not playing
+Jan 02 18:47 : exception: Bad song index
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:47 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 02 18:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 02 18:47 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 02 18:47 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 02 18:47 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 02 18:47 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:47 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 18:48 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 18:48 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 19:35 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 19:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 02 19:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 02 19:35 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 02 19:35 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 02 19:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 02 19:36 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 02 19:36 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 02 19:36 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+Jan 03 16:14 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 16:14 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 16:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 03 16:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 03 16:15 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 03 16:15 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 03 16:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 03 16:15 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 16:15 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 16:15 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 03 16:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Packet corrupt (stream = 0, dts = 1867776)
+Jan 03 16:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: .
+Jan 03 16:15 : ffmpeg/aac: decode_band_types: Input buffer exhausted before END element found
+Jan 03 16:15 : ffmpeg: avcodec_send_packet() failed: Invalid data found when processing input
+Jan 03 16:15 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, offset 0xa8210: partial file
+Jan 03 16:16 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 16:16 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 16:16 : update: removing Imagine Dragons, JID - Enemy (Lyrics).mp4
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 16:16 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 16:16 : player: played "Imagine Dragons, JID - Enemy (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 16:16 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 16:36 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 16:57 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 17:00 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 17:00 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 17:03 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 17:03 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 17:07 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 17:07 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 17:10 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 17:10 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 17:14 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 17:14 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 17:17 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 17:17 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 17:18 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 03 20:27 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 20:27 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 20:27 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 03 20:29 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 20:29 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 20:33 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 20:33 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 20:36 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 20:36 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 20:40 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 03 20:40 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 03 20:42 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 04 16:09 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 04 16:09 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 04 16:09 : output: Failed to play on "pulse audio" (pulse): disconnected
+Jan 04 16:10 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 04 16:10 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 04 16:10 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 05 08:37 : config: option 'options' on line 20 was not recognized
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 08:37 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 08:40 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 08:40 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 08:43 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 08:43 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 08:45 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+Jan 05 08:45 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 05 18:17 : config: option 'options' on line 20 was not recognized
+Jan 05 18:17 : update: added /GAYLE - abcdefu (Lyrics).mp4
+Jan 05 18:17 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:17 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 18:20 : player: played "GAYLE - abcdefu (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:20 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 18:23 : player: played "GAYLE - abcdefu (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:23 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:23 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:29 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 18:30 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:30 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:33 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 18:33 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:33 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 18:37 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 18:37 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 19:05 : player: played "Bruno Mars - That’s What I Like (Official Music Video).mp4"
+Jan 05 20:29 : config: option 'options' on line 20 was not recognized
+Jan 05 20:29 : mixer: Failed to read mixer for 'Sound Card': no such mixer control: PCM
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 20:29 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 20:29 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 20:32 : player: played "GAYLE - abcdefu (Lyrics).mp4"
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 20:32 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Jan 05 20:34 : exception: Failed to open "Sound Card" (alsa); Failed to open ALSA device "plug:dmix": No such file or directory
+Jan 05 21:14 : player: played "GAYLE - abcdefu (Lyrics).mp4"
